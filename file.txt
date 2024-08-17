@@ -1,0 +1,1 @@
+Inserting data into the file using the write method
